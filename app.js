@@ -53,12 +53,12 @@ document.addEventListener("DOMContentLoaded", async () => {
       label.textContent = stat;
 
       const asc = document.createElement("button");
-      asc.textContent = "↑";
+      asc.textContent = "↓";
       asc.className = "sort-btn";
       asc.onclick = () => sortHeroes(stat, true);
 
       const desc = document.createElement("button");
-      desc.textContent = "↓";
+      desc.textContent = "↑";
       desc.className = "sort-btn";
       desc.onclick = () => sortHeroes(stat, false);
 
