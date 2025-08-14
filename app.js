@@ -11,15 +11,19 @@ document.addEventListener("DOMContentLoaded", async () => {
       "mana",
       "mana_regen",
       "armor",
+      "attack_range",
       "attack_speed",
+      "attack_time",
       "damage_min",
       "damage_max",
-      "movement_speed" // renamed version
+      "movement_speed",
     ];
 
     // ✅ Rename map
     const toRename = {
       "MovementSpeed": "movement_speed",
+      "AttackRange": "attack_range",
+      "AttackRate": "attack_time"
     };
 
     // Convert into array for sorting, renaming + filtering
