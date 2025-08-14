@@ -1,0 +1,634 @@
+{
+  "DOTAHeroes": {
+    "npc_dota_hero_antimage": {
+      "current_health": 582,
+      "current_mana": 219,
+      "current_armor": 4.84
+    },
+    "npc_dota_hero_axe": {
+      "current_health": 670,
+      "current_mana": 291,
+      "current_armor": 3.2
+    },
+    "npc_dota_hero_bane": {
+      "current_health": 626,
+      "current_mana": 351,
+      "current_armor": 4.68
+    },
+    "npc_dota_hero_bloodseeker": {
+      "current_health": 648,
+      "current_mana": 279,
+      "current_armor": 5.84
+    },
+    "npc_dota_hero_crystal_maiden": {
+      "current_health": 494,
+      "current_mana": 291,
+      "current_armor": 2.56
+    },
+    "npc_dota_hero_drow_ranger": {
+      "current_health": 472,
+      "current_mana": 255,
+      "current_armor": 3.52
+    },
+    "npc_dota_hero_earthshaker": {
+      "current_health": 604,
+      "current_mana": 291,
+      "current_armor": 3.92
+    },
+    "npc_dota_hero_juggernaut": {
+      "current_health": 560,
+      "current_mana": 243,
+      "current_armor": 5.44
+    },
+    "npc_dota_hero_mirana": {
+      "current_health": 560,
+      "current_mana": 339,
+      "current_armor": 2.16
+    },
+    "npc_dota_hero_nevermore": {
+      "current_health": 538,
+      "current_mana": 291,
+      "current_armor": 4
+    },
+    "npc_dota_hero_morphling": {
+      "current_health": 626,
+      "current_mana": 303,
+      "current_armor": 1.8399999999999999
+    },
+    "npc_dota_hero_phantom_lancer": {
+      "current_health": 582,
+      "current_mana": 327,
+      "current_armor": 4.16
+    },
+    "npc_dota_hero_puck": {
+      "current_health": 494,
+      "current_mana": 351,
+      "current_armor": 2.24
+    },
+    "npc_dota_hero_pudge": {
+      "current_health": 670,
+      "current_mana": 267,
+      "current_armor": 1.76
+    },
+    "npc_dota_hero_razor": {
+      "current_health": 604,
+      "current_mana": 327,
+      "current_armor": 3.84
+    },
+    "npc_dota_hero_sand_king": {
+      "current_health": 626,
+      "current_mana": 279,
+      "current_armor": 4.04
+    },
+    "npc_dota_hero_storm_spirit": {
+      "current_health": 582,
+      "current_mana": 351,
+      "current_armor": 4.52
+    },
+    "npc_dota_hero_sven": {
+      "current_health": 626,
+      "current_mana": 267,
+      "current_armor": 2.88
+    },
+    "npc_dota_hero_tiny": {
+      "current_health": 780,
+      "current_mana": 279,
+      "current_armor": 0
+    },
+    "npc_dota_hero_vengefulspirit": {
+      "current_health": 560,
+      "current_mana": 303,
+      "current_armor": 3.68
+    },
+    "npc_dota_hero_windrunner": {
+      "current_health": 516,
+      "current_mana": 291,
+      "current_armor": 2.72
+    },
+    "npc_dota_hero_zuus": {
+      "current_health": 538,
+      "current_mana": 351,
+      "current_armor": 3.76
+    },
+    "npc_dota_hero_kunkka": {
+      "current_health": 648,
+      "current_mana": 291,
+      "current_armor": 4.24
+    },
+    "npc_dota_hero_lina": {
+      "current_health": 560,
+      "current_mana": 435,
+      "current_armor": 3.68
+    },
+    "npc_dota_hero_lich": {
+      "current_health": 560,
+      "current_mana": 387,
+      "current_armor": 1.7200000000000002
+    },
+    "npc_dota_hero_lion": {
+      "current_health": 516,
+      "current_mana": 303,
+      "current_armor": 2.4
+    },
+    "npc_dota_hero_shadow_shaman": {
+      "current_health": 560,
+      "current_mana": 351,
+      "current_armor": 4.5600000000000005
+    },
+    "npc_dota_hero_slardar": {
+      "current_health": 582,
+      "current_mana": 255,
+      "current_armor": 4.720000000000001
+    },
+    "npc_dota_hero_tidehunter": {
+      "current_health": 714,
+      "current_mana": 315,
+      "current_armor": 2.4
+    },
+    "npc_dota_hero_witch_doctor": {
+      "current_health": 560,
+      "current_mana": 339,
+      "current_armor": 2.08
+    },
+    "npc_dota_hero_riki": {
+      "current_health": 516,
+      "current_mana": 243,
+      "current_armor": 4.8
+    },
+    "npc_dota_hero_enigma": {
+      "current_health": 582,
+      "current_mana": 303,
+      "current_armor": 3.24
+    },
+    "npc_dota_hero_tinker": {
+      "current_health": 538,
+      "current_mana": 435,
+      "current_armor": 4.720000000000001
+    },
+    "npc_dota_hero_sniper": {
+      "current_health": 538,
+      "current_mana": 255,
+      "current_armor": 4.32
+    },
+    "npc_dota_hero_necrolyte": {
+      "current_health": 516,
+      "current_mana": 351,
+      "current_armor": 3.92
+    },
+    "npc_dota_hero_warlock": {
+      "current_health": 604,
+      "current_mana": 375,
+      "current_armor": 2.6
+    },
+    "npc_dota_hero_beastmaster": {
+      "current_health": 670,
+      "current_mana": 267,
+      "current_armor": 2.04
+    },
+    "npc_dota_hero_queenofpain": {
+      "current_health": 560,
+      "current_mana": 375,
+      "current_armor": 3.52
+    },
+    "npc_dota_hero_venomancer": {
+      "current_health": 538,
+      "current_mana": 303,
+      "current_armor": 3.84
+    },
+    "npc_dota_hero_faceless_void": {
+      "current_health": 560,
+      "current_mana": 255,
+      "current_armor": 3.36
+    },
+    "npc_dota_hero_skeleton_king": {
+      "current_health": 604,
+      "current_mana": 267,
+      "current_armor": 3.56
+    },
+    "npc_dota_hero_death_prophet": {
+      "current_health": 582,
+      "current_mana": 363,
+      "current_armor": 2.72
+    },
+    "npc_dota_hero_phantom_assassin": {
+      "current_health": 538,
+      "current_mana": 255,
+      "current_armor": 4.359999999999999
+    },
+    "npc_dota_hero_pugna": {
+      "current_health": 538,
+      "current_mana": 387,
+      "current_armor": 3.36
+    },
+    "npc_dota_hero_templar_assassin": {
+      "current_health": 582,
+      "current_mana": 315,
+      "current_armor": 3.68
+    },
+    "npc_dota_hero_viper": {
+      "current_health": 582,
+      "current_mana": 279,
+      "current_armor": 1.3599999999999999
+    },
+    "npc_dota_hero_luna": {
+      "current_health": 582,
+      "current_mana": 351,
+      "current_armor": 5.84
+    },
+    "npc_dota_hero_dragon_knight": {
+      "current_health": 582,
+      "current_mana": 291,
+      "current_armor": 2.56
+    },
+    "npc_dota_hero_dazzle": {
+      "current_health": 516,
+      "current_mana": 375,
+      "current_armor": 3.2
+    },
+    "npc_dota_hero_rattletrap": {
+      "current_health": 692,
+      "current_mana": 291,
+      "current_armor": 3.08
+    },
+    "npc_dota_hero_leshrac": {
+      "current_health": 560,
+      "current_mana": 339,
+      "current_armor": 3.72
+    },
+    "npc_dota_hero_furion": {
+      "current_health": 538,
+      "current_mana": 339,
+      "current_armor": 2.24
+    },
+    "npc_dota_hero_life_stealer": {
+      "current_health": 626,
+      "current_mana": 255,
+      "current_armor": 3.4
+    },
+    "npc_dota_hero_dark_seer": {
+      "current_health": 560,
+      "current_mana": 327,
+      "current_armor": 4.04
+    },
+    "npc_dota_hero_clinkz": {
+      "current_health": 494,
+      "current_mana": 327,
+      "current_armor": 4
+    },
+    "npc_dota_hero_omniknight": {
+      "current_health": 604,
+      "current_mana": 267,
+      "current_armor": 4.4
+    },
+    "npc_dota_hero_enchantress": {
+      "current_health": 494,
+      "current_mana": 339,
+      "current_armor": 4.04
+    },
+    "npc_dota_hero_huskar": {
+      "current_health": 626,
+      "current_mana": 291,
+      "current_armor": 2.6
+    },
+    "npc_dota_hero_night_stalker": {
+      "current_health": 626,
+      "current_mana": 255,
+      "current_armor": 4.88
+    },
+    "npc_dota_hero_broodmother": {
+      "current_health": 516,
+      "current_mana": 291,
+      "current_armor": 1.88
+    },
+    "npc_dota_hero_bounty_hunter": {
+      "current_health": 538,
+      "current_mana": 315,
+      "current_armor": 8.36
+    },
+    "npc_dota_hero_weaver": {
+      "current_health": 472,
+      "current_mana": 315,
+      "current_armor": 3.72
+    },
+    "npc_dota_hero_jakiro": {
+      "current_health": 670,
+      "current_mana": 387,
+      "current_armor": 3.4
+    },
+    "npc_dota_hero_batrider": {
+      "current_health": 626,
+      "current_mana": 339,
+      "current_armor": 4.08
+    },
+    "npc_dota_hero_chen": {
+      "current_health": 626,
+      "current_mana": 303,
+      "current_armor": 1.4
+    },
+    "npc_dota_hero_spectre": {
+      "current_health": 582,
+      "current_mana": 267,
+      "current_armor": 4
+    },
+    "npc_dota_hero_doom_bringer": {
+      "current_health": 648,
+      "current_mana": 255,
+      "current_armor": 4.4
+    },
+    "npc_dota_hero_ancient_apparition": {
+      "current_health": 560,
+      "current_mana": 351,
+      "current_armor": 2.2
+    },
+    "npc_dota_hero_ursa": {
+      "current_health": 670,
+      "current_mana": 267,
+      "current_armor": 3.88
+    },
+    "npc_dota_hero_spirit_breaker": {
+      "current_health": 736,
+      "current_mana": 243,
+      "current_armor": 3.72
+    },
+    "npc_dota_hero_gyrocopter": {
+      "current_health": 604,
+      "current_mana": 327,
+      "current_armor": 5
+    },
+    "npc_dota_hero_alchemist": {
+      "current_health": 626,
+      "current_mana": 375,
+      "current_armor": 3.52
+    },
+    "npc_dota_hero_invoker": {
+      "current_health": 538,
+      "current_mana": 315,
+      "current_armor": 1.2400000000000002
+    },
+    "npc_dota_hero_silencer": {
+      "current_health": 516,
+      "current_mana": 375,
+      "current_armor": 3.52
+    },
+    "npc_dota_hero_obsidian_destroyer": {
+      "current_health": 582,
+      "current_mana": 435,
+      "current_armor": 4.52
+    },
+    "npc_dota_hero_lycan": {
+      "current_health": 736,
+      "current_mana": 351,
+      "current_armor": 2.88
+    },
+    "npc_dota_hero_brewmaster": {
+      "current_health": 626,
+      "current_mana": 279,
+      "current_armor": 3.04
+    },
+    "npc_dota_hero_shadow_demon": {
+      "current_health": 626,
+      "current_mana": 339,
+      "current_armor": 2.88
+    },
+    "npc_dota_hero_lone_druid": {
+      "current_health": 516,
+      "current_mana": 231,
+      "current_armor": 3.2
+    },
+    "npc_dota_hero_chaos_knight": {
+      "current_health": 648,
+      "current_mana": 291,
+      "current_armor": 4.88
+    },
+    "npc_dota_hero_meepo": {
+      "current_health": 648,
+      "current_mana": 291,
+      "current_armor": 5.720000000000001
+    },
+    "npc_dota_hero_treant": {
+      "current_health": 670,
+      "current_mana": 315,
+      "current_armor": 1.4
+    },
+    "npc_dota_hero_ogre_magi": {
+      "current_health": 670,
+      "current_mana": 75,
+      "current_armor": 6.24
+    },
+    "npc_dota_hero_undying": {
+      "current_health": 604,
+      "current_mana": 399,
+      "current_armor": 2.6
+    },
+    "npc_dota_hero_rubick": {
+      "current_health": 582,
+      "current_mana": 363,
+      "current_armor": 4.68
+    },
+    "npc_dota_hero_disruptor": {
+      "current_health": 582,
+      "current_mana": 315,
+      "current_armor": 2.4
+    },
+    "npc_dota_hero_nyx_assassin": {
+      "current_health": 494,
+      "current_mana": 327,
+      "current_armor": 3.88
+    },
+    "npc_dota_hero_naga_siren": {
+      "current_health": 582,
+      "current_mana": 315,
+      "current_armor": 4.52
+    },
+    "npc_dota_hero_keeper_of_the_light": {
+      "current_health": 516,
+      "current_mana": 351,
+      "current_armor": 2.4
+    },
+    "npc_dota_hero_wisp": {
+      "current_health": 494,
+      "current_mana": 351,
+      "current_armor": 3.24
+    },
+    "npc_dota_hero_visage": {
+      "current_health": 604,
+      "current_mana": 339,
+      "current_armor": 1.76
+    },
+    "npc_dota_hero_slark": {
+      "current_health": 560,
+      "current_mana": 267,
+      "current_armor": 3.36
+    },
+    "npc_dota_hero_medusa": {
+      "current_health": 120,
+      "current_mana": 375,
+      "current_armor": 2.52
+    },
+    "npc_dota_hero_troll_warlord": {
+      "current_health": 582,
+      "current_mana": 231,
+      "current_armor": 2.68
+    },
+    "npc_dota_hero_centaur": {
+      "current_health": 714,
+      "current_mana": 255,
+      "current_armor": 0.3999999999999999
+    },
+    "npc_dota_hero_magnataur": {
+      "current_health": 626,
+      "current_mana": 315,
+      "current_armor": 2.92
+    },
+    "npc_dota_hero_shredder": {
+      "current_health": 692,
+      "current_mana": 351,
+      "current_armor": 2.56
+    },
+    "npc_dota_hero_bristleback": {
+      "current_health": 604,
+      "current_mana": 243,
+      "current_armor": 3.72
+    },
+    "npc_dota_hero_tusk": {
+      "current_health": 626,
+      "current_mana": 291,
+      "current_armor": 4.68
+    },
+    "npc_dota_hero_skywrath_mage": {
+      "current_health": 582,
+      "current_mana": 375,
+      "current_armor": 0.08000000000000007
+    },
+    "npc_dota_hero_abaddon": {
+      "current_health": 604,
+      "current_mana": 291,
+      "current_armor": 2.68
+    },
+    "npc_dota_hero_elder_titan": {
+      "current_health": 692,
+      "current_mana": 351,
+      "current_armor": 2.56
+    },
+    "npc_dota_hero_legion_commander": {
+      "current_health": 648,
+      "current_mana": 315,
+      "current_armor": 2.88
+    },
+    "npc_dota_hero_ember_spirit": {
+      "current_health": 604,
+      "current_mana": 315,
+      "current_armor": 3.52
+    },
+    "npc_dota_hero_earth_spirit": {
+      "current_health": 604,
+      "current_mana": 291,
+      "current_armor": 2.72
+    },
+    "npc_dota_hero_terrorblade": {
+      "current_health": 516,
+      "current_mana": 303,
+      "current_armor": 8.52
+    },
+    "npc_dota_hero_phoenix": {
+      "current_health": 626,
+      "current_mana": 267,
+      "current_armor": 0.9199999999999999
+    },
+    "npc_dota_hero_oracle": {
+      "current_health": 560,
+      "current_mana": 387,
+      "current_armor": 3.4
+    },
+    "npc_dota_hero_techies": {
+      "current_health": 538,
+      "current_mana": 375,
+      "current_armor": 4.24
+    },
+    "npc_dota_hero_winter_wyvern": {
+      "current_health": 604,
+      "current_mana": 387,
+      "current_armor": 3.56
+    },
+    "npc_dota_hero_arc_warden": {
+      "current_health": 560,
+      "current_mana": 363,
+      "current_armor": 3.2
+    },
+    "npc_dota_hero_abyssal_underlord": {
+      "current_health": 670,
+      "current_mana": 279,
+      "current_armor": 4.92
+    },
+    "npc_dota_hero_monkey_king": {
+      "current_health": 538,
+      "current_mana": 315,
+      "current_armor": 5.84
+    },
+    "npc_dota_hero_pangolier": {
+      "current_health": 538,
+      "current_mana": 267,
+      "current_armor": 4.88
+    },
+    "npc_dota_hero_dark_willow": {
+      "current_health": 560,
+      "current_mana": 327,
+      "current_armor": 2.88
+    },
+    "npc_dota_hero_grimstroke": {
+      "current_health": 582,
+      "current_mana": 375,
+      "current_armor": 2.88
+    },
+    "npc_dota_hero_mars": {
+      "current_health": 626,
+      "current_mana": 327,
+      "current_armor": 2.2
+    },
+    "npc_dota_hero_void_spirit": {
+      "current_health": 604,
+      "current_mana": 363,
+      "current_armor": 2.36
+    },
+    "npc_dota_hero_snapfire": {
+      "current_health": 582,
+      "current_mana": 327,
+      "current_armor": 3.56
+    },
+    "npc_dota_hero_hoodwink": {
+      "current_health": 494,
+      "current_mana": 327,
+      "current_armor": 4
+    },
+    "npc_dota_hero_dawnbreaker": {
+      "current_health": 670,
+      "current_mana": 315,
+      "current_armor": 4.24
+    },
+    "npc_dota_hero_marci": {
+      "current_health": 626,
+      "current_mana": 303,
+      "current_armor": 3.2
+    },
+    "npc_dota_hero_primal_beast": {
+      "current_health": 692,
+      "current_mana": 267,
+      "current_armor": 4.4
+    },
+    "npc_dota_hero_muerta": {
+      "current_health": 538,
+      "current_mana": 351,
+      "current_armor": 3.36
+    },
+    "npc_dota_hero_ringmaster": {
+      "current_health": 582,
+      "current_mana": 375,
+      "current_armor": 3.08
+    },
+    "npc_dota_hero_kez": {
+      "current_health": 538,
+      "current_mana": 315,
+      "current_armor": 5.32
+    }
+  }
+}
