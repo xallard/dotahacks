@@ -33,7 +33,7 @@
       "mana": 219,
       "mana_regen": 0.6,
       "armor": 5,
-      "attack_speed": 124,
+      "attack_speed": 24,
       "damage_min": 50,
       "damage_max": 54
     },
@@ -68,7 +68,7 @@
       "mana": 291,
       "mana_regen": 0.9,
       "armor": 3.3,
-      "attack_speed": 120,
+      "attack_speed": 20,
       "damage_min": 56,
       "damage_max": 60
     },
@@ -101,7 +101,7 @@
       "mana": 351,
       "mana_regen": 1.2,
       "armor": 4.8,
-      "attack_speed": 123,
+      "attack_speed": 23,
       "damage_min": 47,
       "damage_max": 53
     },
@@ -132,7 +132,7 @@
       "mana": 279,
       "mana_regen": 0.9,
       "armor": 6,
-      "attack_speed": 124,
+      "attack_speed": 24,
       "damage_min": 59,
       "damage_max": 65
     },
@@ -168,7 +168,7 @@
       "mana": 291,
       "mana_regen": 0.9,
       "armor": 2.7,
-      "attack_speed": 216,
+      "attack_speed": 116,
       "damage_min": 47,
       "damage_max": 53
     },
@@ -211,7 +211,7 @@
       "mana": 255,
       "mana_regen": 0.8,
       "armor": 3.7,
-      "attack_speed": 222,
+      "attack_speed": 122,
       "damage_min": 45,
       "damage_max": 52
     },
@@ -245,7 +245,7 @@
       "mana": 291,
       "mana_regen": 0.9,
       "armor": 4,
-      "attack_speed": 112,
+      "attack_speed": 12,
       "damage_min": 49,
       "damage_max": 59
     },
@@ -284,7 +284,7 @@
       "mana": 243,
       "mana_regen": 0.7,
       "armor": 5.7,
-      "attack_speed": 244,
+      "attack_speed": 144,
       "damage_min": 42,
       "damage_max": 44
     },
@@ -317,7 +317,7 @@
       "mana": 339,
       "mana_regen": 1.1,
       "armor": 2.3,
-      "attack_speed": 226,
+      "attack_speed": 126,
       "damage_min": 42,
       "damage_max": 48
     },
@@ -356,7 +356,7 @@
       "mana": 291,
       "mana_regen": 0.9,
       "armor": 4.2,
-      "attack_speed": 125,
+      "attack_speed": 25,
       "damage_min": 35,
       "damage_max": 41
     },
@@ -390,7 +390,7 @@
       "mana": 303,
       "mana_regen": 1,
       "armor": 2,
-      "attack_speed": 124,
+      "attack_speed": 24,
       "damage_min": 35,
       "damage_max": 44
     },
@@ -423,7 +423,7 @@
       "mana": 327,
       "mana_regen": 1.1,
       "armor": 4.3,
-      "attack_speed": 236,
+      "attack_speed": 136,
       "damage_min": 47,
       "damage_max": 57
     },
@@ -458,7 +458,7 @@
       "mana": 351,
       "mana_regen": 1.2,
       "armor": 2.3,
-      "attack_speed": 214,
+      "attack_speed": 114,
       "damage_min": 39,
       "damage_max": 47
     },
@@ -492,7 +492,7 @@
       "mana": 267,
       "mana_regen": 0.8,
       "armor": 1.8,
-      "attack_speed": 111,
+      "attack_speed": 11,
       "damage_min": 70,
       "damage_max": 76
     },
@@ -529,7 +529,7 @@
       "mana": 327,
       "mana_regen": 1.1,
       "armor": 4,
-      "attack_speed": 124,
+      "attack_speed": 24,
       "damage_min": 45,
       "damage_max": 47
     },
@@ -561,7 +561,7 @@
       "mana": 279,
       "mana_regen": 0.9,
       "armor": 4.2,
-      "attack_speed": 229,
+      "attack_speed": 129,
       "damage_min": 42,
       "damage_max": 52
     },
@@ -596,7 +596,7 @@
       "mana": 351,
       "mana_regen": 1.2,
       "armor": 4.7,
-      "attack_speed": 237,
+      "attack_speed": 137,
       "damage_min": 45,
       "damage_max": 55
     },
@@ -630,7 +630,7 @@
       "mana": 267,
       "mana_regen": 0.8,
       "armor": 3,
-      "attack_speed": 228,
+      "attack_speed": 128,
       "damage_min": 60,
       "damage_max": 62
     },
@@ -663,7 +663,7 @@
       "mana": 279,
       "mana_regen": 0.9,
       "armor": 0,
-      "attack_speed": 190,
+      "attack_speed": 90,
       "damage_min": 61,
       "damage_max": 67
     },
@@ -700,7 +700,7 @@
       "mana": 303,
       "mana_regen": 1,
       "armor": 3.8,
-      "attack_speed": 223,
+      "attack_speed": 123,
       "damage_min": 48,
       "damage_max": 54
     },
@@ -737,7 +737,7 @@
       "mana": 291,
       "mana_regen": 0.9,
       "armor": 2.8,
-      "attack_speed": 207,
+      "attack_speed": 107,
       "damage_min": 42,
       "damage_max": 54
     },
@@ -769,7 +769,7 @@
       "mana": 351,
       "mana_regen": 1.2,
       "armor": 3.8,
-      "attack_speed": 111,
+      "attack_speed": 11,
       "damage_min": 48,
       "damage_max": 56
     },
@@ -801,7 +801,7 @@
       "mana": 291,
       "mana_regen": 0.9,
       "armor": 4.3,
-      "attack_speed": 114,
+      "attack_speed": 14,
       "damage_min": 54,
       "damage_max": 60
     },
@@ -833,7 +833,7 @@
       "mana": 435,
       "mana_regen": 1.5,
       "armor": 3.8,
-      "attack_speed": 123,
+      "attack_speed": 23,
       "damage_min": 41,
       "damage_max": 49
     },
@@ -867,7 +867,7 @@
       "mana": 387,
       "mana_regen": 1.3,
       "armor": 1.7999999999999998,
-      "attack_speed": 117,
+      "attack_speed": 17,
       "damage_min": 44,
       "damage_max": 53
     },
@@ -901,7 +901,7 @@
       "mana": 303,
       "mana_regen": 1,
       "armor": 2.5,
-      "attack_speed": 230,
+      "attack_speed": 130,
       "damage_min": 47,
       "damage_max": 53
     },
@@ -935,7 +935,7 @@
       "mana": 351,
       "mana_regen": 1.2,
       "armor": 4.7,
-      "attack_speed": 216,
+      "attack_speed": 116,
       "damage_min": 60,
       "damage_max": 67
     },
@@ -968,7 +968,7 @@
       "mana": 255,
       "mana_regen": 0.8,
       "armor": 4.8,
-      "attack_speed": 117,
+      "attack_speed": 17,
       "damage_min": 51,
       "damage_max": 59
     },
@@ -999,7 +999,7 @@
       "mana": 315,
       "mana_regen": 1,
       "armor": 2.5,
-      "attack_speed": 115,
+      "attack_speed": 15,
       "damage_min": 52,
       "damage_max": 58
     },
@@ -1031,7 +1031,7 @@
       "mana": 339,
       "mana_regen": 1.1,
       "armor": 2.2,
-      "attack_speed": 113,
+      "attack_speed": 13,
       "damage_min": 46,
       "damage_max": 56
     },
@@ -1064,7 +1064,7 @@
       "mana": 243,
       "mana_regen": 0.7,
       "armor": 5,
-      "attack_speed": 220,
+      "attack_speed": 120,
       "damage_min": 40,
       "damage_max": 44
     },
@@ -1096,7 +1096,7 @@
       "mana": 303,
       "mana_regen": 1,
       "armor": 3.3,
-      "attack_speed": 114,
+      "attack_speed": 14,
       "damage_min": 40,
       "damage_max": 46
     },
@@ -1128,7 +1128,7 @@
       "mana": 435,
       "mana_regen": 1.5,
       "armor": 4.8,
-      "attack_speed": 117,
+      "attack_speed": 17,
       "damage_min": 41,
       "damage_max": 47
     },
@@ -1167,7 +1167,7 @@
       "mana": 255,
       "mana_regen": 0.8,
       "armor": 4.5,
-      "attack_speed": 127,
+      "attack_speed": 27,
       "damage_min": 32,
       "damage_max": 38
     },
@@ -1199,7 +1199,7 @@
       "mana": 351,
       "mana_regen": 1.2,
       "armor": 4,
-      "attack_speed": 112,
+      "attack_speed": 12,
       "damage_min": 44,
       "damage_max": 48
     },
@@ -1232,7 +1232,7 @@
       "mana": 375,
       "mana_regen": 1.3,
       "armor": 2.7,
-      "attack_speed": 200,
+      "attack_speed": 100,
       "damage_min": 49,
       "damage_max": 59
     },
@@ -1265,7 +1265,7 @@
       "mana": 267,
       "mana_regen": 0.8,
       "armor": 2.2,
-      "attack_speed": 219,
+      "attack_speed": 119,
       "damage_min": 50,
       "damage_max": 54
     },
@@ -1301,7 +1301,7 @@
       "mana": 375,
       "mana_regen": 1.3,
       "armor": 3.7,
-      "attack_speed": 122,
+      "attack_speed": 22,
       "damage_min": 46,
       "damage_max": 52
     },
@@ -1334,7 +1334,7 @@
       "mana": 303,
       "mana_regen": 1,
       "armor": 4,
-      "attack_speed": 239,
+      "attack_speed": 139,
       "damage_min": 37,
       "damage_max": 40
     },
@@ -1372,7 +1372,7 @@
       "mana": 255,
       "mana_regen": 0.8,
       "armor": 3.5,
-      "attack_speed": 121,
+      "attack_speed": 21,
       "damage_min": 57,
       "damage_max": 63
     },
@@ -1410,7 +1410,7 @@
       "mana": 267,
       "mana_regen": 0.8,
       "armor": 3.7,
-      "attack_speed": 116,
+      "attack_speed": 16,
       "damage_min": 60,
       "damage_max": 62
     },
@@ -1444,7 +1444,7 @@
       "mana": 363,
       "mana_regen": 1.2,
       "armor": 2.8,
-      "attack_speed": 217,
+      "attack_speed": 117,
       "damage_min": 43,
       "damage_max": 53
     },
@@ -1483,7 +1483,7 @@
       "mana": 255,
       "mana_regen": 0.8,
       "armor": 4.5,
-      "attack_speed": 231,
+      "attack_speed": 131,
       "damage_min": 54,
       "damage_max": 56
     },
@@ -1515,7 +1515,7 @@
       "mana": 387,
       "mana_regen": 1.3,
       "armor": 3.5,
-      "attack_speed": 121,
+      "attack_speed": 21,
       "damage_min": 40,
       "damage_max": 47
     },
@@ -1550,7 +1550,7 @@
       "mana": 315,
       "mana_regen": 1,
       "armor": 3.8,
-      "attack_speed": 223,
+      "attack_speed": 123,
       "damage_min": 49,
       "damage_max": 54
     },
@@ -1588,7 +1588,7 @@
       "mana": 279,
       "mana_regen": 0.9,
       "armor": 1.5,
-      "attack_speed": 241,
+      "attack_speed": 141,
       "damage_min": 48,
       "damage_max": 50
     },
@@ -1622,7 +1622,7 @@
       "mana": 351,
       "mana_regen": 1.2,
       "armor": 6,
-      "attack_speed": 124,
+      "attack_speed": 24,
       "damage_min": 47,
       "damage_max": 53
     },
@@ -1657,7 +1657,7 @@
       "mana": 291,
       "mana_regen": 0.9,
       "armor": 2.7,
-      "attack_speed": 116,
+      "attack_speed": 16,
       "damage_min": 55,
       "damage_max": 61
     },
@@ -1690,7 +1690,7 @@
       "mana": 375,
       "mana_regen": 1.3,
       "armor": 3.3,
-      "attack_speed": 120,
+      "attack_speed": 20,
       "damage_min": 37,
       "damage_max": 43
     },
@@ -1723,7 +1723,7 @@
       "mana": 291,
       "mana_regen": 0.9,
       "armor": 3.2,
-      "attack_speed": 213,
+      "attack_speed": 113,
       "damage_min": 50,
       "damage_max": 52
     },
@@ -1755,7 +1755,7 @@
       "mana": 339,
       "mana_regen": 1.1,
       "armor": 3.8,
-      "attack_speed": 117,
+      "attack_speed": 17,
       "damage_min": 47,
       "damage_max": 51
     },
@@ -1788,7 +1788,7 @@
       "mana": 339,
       "mana_regen": 1.1,
       "armor": 2.3,
-      "attack_speed": 114,
+      "attack_speed": 14,
       "damage_min": 35,
       "damage_max": 45
     },
@@ -1820,7 +1820,7 @@
       "mana": 255,
       "mana_regen": 0.8,
       "armor": 3.5,
-      "attack_speed": 115,
+      "attack_speed": 15,
       "damage_min": 39,
       "damage_max": 45
     },
@@ -1852,7 +1852,7 @@
       "mana": 327,
       "mana_regen": 1.1,
       "armor": 4.2,
-      "attack_speed": 119,
+      "attack_speed": 19,
       "damage_min": 51,
       "damage_max": 57
     },
@@ -1885,7 +1885,7 @@
       "mana": 327,
       "mana_regen": 1.1,
       "armor": 4.2,
-      "attack_speed": 125,
+      "attack_speed": 25,
       "damage_min": 36,
       "damage_max": 42
     },
@@ -1916,7 +1916,7 @@
       "mana": 267,
       "mana_regen": 0.8,
       "armor": 4.5,
-      "attack_speed": 115,
+      "attack_speed": 15,
       "damage_min": 53,
       "damage_max": 63
     },
@@ -1948,7 +1948,7 @@
       "mana": 339,
       "mana_regen": 1.1,
       "armor": 4.2,
-      "attack_speed": 119,
+      "attack_speed": 19,
       "damage_min": 38,
       "damage_max": 48
     },
@@ -1981,7 +1981,7 @@
       "mana": 291,
       "mana_regen": 0.9,
       "armor": 2.7,
-      "attack_speed": 110,
+      "attack_speed": 10,
       "damage_min": 44,
       "damage_max": 49
     },
@@ -2016,7 +2016,7 @@
       "mana": 255,
       "mana_regen": 0.8,
       "armor": 5,
-      "attack_speed": 218,
+      "attack_speed": 118,
       "damage_min": 63,
       "damage_max": 67
     },
@@ -2049,7 +2049,7 @@
       "mana": 291,
       "mana_regen": 0.9,
       "armor": 2,
-      "attack_speed": 243,
+      "attack_speed": 143,
       "damage_min": 45,
       "damage_max": 51
     },
@@ -2083,7 +2083,7 @@
       "mana": 315,
       "mana_regen": 1,
       "armor": 8.5,
-      "attack_speed": 121,
+      "attack_speed": 21,
       "damage_min": 52,
       "damage_max": 60
     },
@@ -2117,7 +2117,7 @@
       "mana": 315,
       "mana_regen": 1,
       "armor": 3.8,
-      "attack_speed": 237,
+      "attack_speed": 137,
       "damage_min": 53,
       "damage_max": 59
     },
@@ -2150,7 +2150,7 @@
       "mana": 387,
       "mana_regen": 1.3,
       "armor": 3.5,
-      "attack_speed": 115,
+      "attack_speed": 15,
       "damage_min": 52,
       "damage_max": 60
     },
@@ -2185,7 +2185,7 @@
       "mana": 339,
       "mana_regen": 1.1,
       "armor": 4.2,
-      "attack_speed": 113,
+      "attack_speed": 13,
       "damage_min": 35,
       "damage_max": 39
     },
@@ -2217,7 +2217,7 @@
       "mana": 303,
       "mana_regen": 1,
       "armor": 1.5,
-      "attack_speed": 115,
+      "attack_speed": 15,
       "damage_min": 52,
       "damage_max": 62
     },
@@ -2254,7 +2254,7 @@
       "mana": 267,
       "mana_regen": 0.8,
       "armor": 4.2,
-      "attack_speed": 215,
+      "attack_speed": 115,
       "damage_min": 42,
       "damage_max": 46
     },
@@ -2286,7 +2286,7 @@
       "mana": 255,
       "mana_regen": 0.8,
       "armor": 4.5,
-      "attack_speed": 115,
+      "attack_speed": 15,
       "damage_min": 56,
       "damage_max": 66
     },
@@ -2318,7 +2318,7 @@
       "mana": 351,
       "mana_regen": 1.2,
       "armor": 2.3,
-      "attack_speed": 120,
+      "attack_speed": 20,
       "damage_min": 41,
       "damage_max": 51
     },
@@ -2350,7 +2350,7 @@
       "mana": 267,
       "mana_regen": 0.8,
       "armor": 4,
-      "attack_speed": 118,
+      "attack_speed": 18,
       "damage_min": 49,
       "damage_max": 53
     },
@@ -2382,7 +2382,7 @@
       "mana": 243,
       "mana_regen": 0.7,
       "armor": 3.8,
-      "attack_speed": 117,
+      "attack_speed": 17,
       "damage_min": 62,
       "damage_max": 72
     },
@@ -2415,7 +2415,7 @@
       "mana": 327,
       "mana_regen": 1.1,
       "armor": 5.2,
-      "attack_speed": 250,
+      "attack_speed": 150,
       "damage_min": 40,
       "damage_max": 46
     },
@@ -2447,7 +2447,7 @@
       "mana": 375,
       "mana_regen": 1.3,
       "armor": 3.7,
-      "attack_speed": 232,
+      "attack_speed": 132,
       "damage_min": 50,
       "damage_max": 56
     },
@@ -2480,7 +2480,7 @@
       "mana": 315,
       "mana_regen": 1,
       "armor": 1.2999999999999998,
-      "attack_speed": 114,
+      "attack_speed": 14,
       "damage_min": 38,
       "damage_max": 44
     },
@@ -2513,7 +2513,7 @@
       "mana": 375,
       "mana_regen": 1.3,
       "armor": 3.7,
-      "attack_speed": 232,
+      "attack_speed": 132,
       "damage_min": 36,
       "damage_max": 50
     },
@@ -2546,7 +2546,7 @@
       "mana": 435,
       "mana_regen": 1.5,
       "armor": 4.7,
-      "attack_speed": 122,
+      "attack_speed": 22,
       "damage_min": 40,
       "damage_max": 52
     },
@@ -2582,7 +2582,7 @@
       "mana": 351,
       "mana_regen": 1.2,
       "armor": 3,
-      "attack_speed": 228,
+      "attack_speed": 128,
       "damage_min": 52,
       "damage_max": 57
     },
@@ -2614,7 +2614,7 @@
       "mana": 279,
       "mana_regen": 0.9,
       "armor": 3.2,
-      "attack_speed": 119,
+      "attack_speed": 19,
       "damage_min": 49,
       "damage_max": 56
     },
@@ -2646,7 +2646,7 @@
       "mana": 339,
       "mana_regen": 1.1,
       "armor": 3,
-      "attack_speed": 118,
+      "attack_speed": 18,
       "damage_min": 52,
       "damage_max": 56
     },
@@ -2679,7 +2679,7 @@
       "mana": 231,
       "mana_regen": 0.7,
       "armor": 3.3,
-      "attack_speed": 120,
+      "attack_speed": 20,
       "damage_min": 36,
       "damage_max": 40
     },
@@ -2710,7 +2710,7 @@
       "mana": 291,
       "mana_regen": 0.9,
       "armor": 5,
-      "attack_speed": 118,
+      "attack_speed": 18,
       "damage_min": 48,
       "damage_max": 78
     },
@@ -2744,7 +2744,7 @@
       "mana": 291,
       "mana_regen": 0.9,
       "armor": 5.8,
-      "attack_speed": 117,
+      "attack_speed": 17,
       "damage_min": 53,
       "damage_max": 59
     },
@@ -2776,7 +2776,7 @@
       "mana": 315,
       "mana_regen": 1,
       "armor": 1.5,
-      "attack_speed": 115,
+      "attack_speed": 15,
       "damage_min": 85,
       "damage_max": 93
     },
@@ -2813,7 +2813,7 @@
       "mana": 75,
       "mana_regen": 0,
       "armor": 6.3,
-      "attack_speed": 114,
+      "attack_speed": 14,
       "damage_min": 69,
       "damage_max": 75
     },
@@ -2845,7 +2845,7 @@
       "mana": 399,
       "mana_regen": 1.4,
       "armor": 2.7,
-      "attack_speed": 110,
+      "attack_speed": 10,
       "damage_min": 55,
       "damage_max": 63
     },
@@ -2883,7 +2883,7 @@
       "mana": 363,
       "mana_regen": 1.2,
       "armor": 4.8,
-      "attack_speed": 223,
+      "attack_speed": 123,
       "damage_min": 46,
       "damage_max": 52
     },
@@ -2915,7 +2915,7 @@
       "mana": 315,
       "mana_regen": 1,
       "armor": 2.5,
-      "attack_speed": 115,
+      "attack_speed": 15,
       "damage_min": 48,
       "damage_max": 52
     },
@@ -2947,7 +2947,7 @@
       "mana": 327,
       "mana_regen": 1.1,
       "armor": 4,
-      "attack_speed": 118,
+      "attack_speed": 18,
       "damage_min": 43,
       "damage_max": 47
     },
@@ -2980,7 +2980,7 @@
       "mana": 315,
       "mana_regen": 1,
       "armor": 4.7,
-      "attack_speed": 232,
+      "attack_speed": 132,
       "damage_min": 44,
       "damage_max": 46
     },
@@ -3014,7 +3014,7 @@
       "mana": 351,
       "mana_regen": 1.2,
       "armor": 2.5,
-      "attack_speed": 115,
+      "attack_speed": 15,
       "damage_min": 38,
       "damage_max": 45
     },
@@ -3047,7 +3047,7 @@
       "mana": 351,
       "mana_regen": 1.2,
       "armor": 3.3,
-      "attack_speed": 114,
+      "attack_speed": 14,
       "damage_min": 38,
       "damage_max": 44
     },
@@ -3080,7 +3080,7 @@
       "mana": 339,
       "mana_regen": 1.1,
       "armor": 1.8,
-      "attack_speed": 221,
+      "attack_speed": 121,
       "damage_min": 43,
       "damage_max": 53
     },
@@ -3117,7 +3117,7 @@
       "mana": 267,
       "mana_regen": 0.8,
       "armor": 3.5,
-      "attack_speed": 241,
+      "attack_speed": 141,
       "damage_min": 57,
       "damage_max": 63
     },
@@ -3152,7 +3152,7 @@
       "mana": 375,
       "mana_regen": 1.3,
       "armor": 2.7,
-      "attack_speed": 222,
+      "attack_speed": 122,
       "damage_min": 26,
       "damage_max": 32
     },
@@ -3191,7 +3191,7 @@
       "mana": 231,
       "mana_regen": 0.7,
       "armor": 2.8,
-      "attack_speed": 123,
+      "attack_speed": 23,
       "damage_min": 48,
       "damage_max": 56
     },
@@ -3225,7 +3225,7 @@
       "mana": 255,
       "mana_regen": 0.8,
       "armor": 0.5,
-      "attack_speed": 205,
+      "attack_speed": 105,
       "damage_min": 63,
       "damage_max": 65
     },
@@ -3259,7 +3259,7 @@
       "mana": 315,
       "mana_regen": 1,
       "armor": 3,
-      "attack_speed": 112,
+      "attack_speed": 12,
       "damage_min": 53,
       "damage_max": 61
     },
@@ -3290,7 +3290,7 @@
       "mana": 351,
       "mana_regen": 1.2,
       "armor": 2.7,
-      "attack_speed": 116,
+      "attack_speed": 16,
       "damage_min": 49,
       "damage_max": 53
     },
@@ -3323,7 +3323,7 @@
       "mana": 243,
       "mana_regen": 0.7,
       "armor": 3.8,
-      "attack_speed": 117,
+      "attack_speed": 17,
       "damage_min": 53,
       "damage_max": 59
     },
@@ -3356,7 +3356,7 @@
       "mana": 291,
       "mana_regen": 0.9,
       "armor": 4.8,
-      "attack_speed": 123,
+      "attack_speed": 23,
       "damage_min": 50,
       "damage_max": 54
     },
@@ -3392,7 +3392,7 @@
       "mana": 375,
       "mana_regen": 1.3,
       "armor": 0.20000000000000018,
-      "attack_speed": 203,
+      "attack_speed": 103,
       "damage_min": 37,
       "damage_max": 47
     },
@@ -3426,7 +3426,7 @@
       "mana": 291,
       "mana_regen": 0.9,
       "armor": 2.8,
-      "attack_speed": 218,
+      "attack_speed": 118,
       "damage_min": 44,
       "damage_max": 54
     },
@@ -3458,7 +3458,7 @@
       "mana": 351,
       "mana_regen": 1.2,
       "armor": 2.7,
-      "attack_speed": 116,
+      "attack_speed": 16,
       "damage_min": 49,
       "damage_max": 59
     },
@@ -3489,7 +3489,7 @@
       "mana": 315,
       "mana_regen": 1,
       "armor": 3,
-      "attack_speed": 118,
+      "attack_speed": 18,
       "damage_min": 57,
       "damage_max": 61
     },
@@ -3523,7 +3523,7 @@
       "mana": 315,
       "mana_regen": 1,
       "armor": 3.7,
-      "attack_speed": 122,
+      "attack_speed": 22,
       "damage_min": 55,
       "damage_max": 59
     },
@@ -3556,7 +3556,7 @@
       "mana": 291,
       "mana_regen": 0.9,
       "armor": 2.8,
-      "attack_speed": 117,
+      "attack_speed": 17,
       "damage_min": 53,
       "damage_max": 57
     },
@@ -3591,7 +3591,7 @@
       "mana": 303,
       "mana_regen": 1,
       "armor": 8.7,
-      "attack_speed": 232,
+      "attack_speed": 132,
       "damage_min": 44,
       "damage_max": 50
     },
@@ -3625,7 +3625,7 @@
       "mana": 267,
       "mana_regen": 0.8,
       "armor": 1,
-      "attack_speed": 112,
+      "attack_speed": 12,
       "damage_min": 44,
       "damage_max": 54
     },
@@ -3663,7 +3663,7 @@
       "mana": 387,
       "mana_regen": 1.3,
       "armor": 3.5,
-      "attack_speed": 115,
+      "attack_speed": 15,
       "damage_min": 33,
       "damage_max": 39
     },
@@ -3699,7 +3699,7 @@
       "mana": 375,
       "mana_regen": 1.3,
       "armor": 4.3,
-      "attack_speed": 204,
+      "attack_speed": 104,
       "damage_min": 39,
       "damage_max": 41
     },
@@ -3734,7 +3734,7 @@
       "mana": 75,
       "mana_regen": 0,
       "armor": 0,
-      "attack_speed": 100,
+      "attack_speed": 0,
       "damage_min": 31,
       "damage_max": 31
     },
@@ -3775,7 +3775,7 @@
       "mana": 387,
       "mana_regen": 1.3,
       "armor": 3.7,
-      "attack_speed": 216,
+      "attack_speed": 116,
       "damage_min": 37,
       "damage_max": 44
     },
@@ -3815,7 +3815,7 @@
       "mana": 363,
       "mana_regen": 1.2,
       "armor": 3.3,
-      "attack_speed": 120,
+      "attack_speed": 20,
       "damage_min": 43,
       "damage_max": 49
     },
@@ -3852,7 +3852,7 @@
       "mana": 279,
       "mana_regen": 0.9,
       "armor": 5,
-      "attack_speed": 112,
+      "attack_speed": 12,
       "damage_min": 62,
       "damage_max": 68
     },
@@ -3889,7 +3889,7 @@
       "mana": 315,
       "mana_regen": 1,
       "armor": 6,
-      "attack_speed": 124,
+      "attack_speed": 24,
       "damage_min": 48,
       "damage_max": 52
     },
@@ -3927,7 +3927,7 @@
       "mana": 267,
       "mana_regen": 0.8,
       "armor": 5,
-      "attack_speed": 118,
+      "attack_speed": 18,
       "damage_min": 45,
       "damage_max": 51
     },
@@ -3967,7 +3967,7 @@
       "mana": 327,
       "mana_regen": 1.1,
       "armor": 3,
-      "attack_speed": 233,
+      "attack_speed": 133,
       "damage_min": 47,
       "damage_max": 55
     },
@@ -4005,7 +4005,7 @@
       "mana": 375,
       "mana_regen": 1.3,
       "armor": 3,
-      "attack_speed": 218,
+      "attack_speed": 118,
       "damage_min": 42,
       "damage_max": 46
     },
@@ -4043,7 +4043,7 @@
       "mana": 327,
       "mana_regen": 1.1,
       "armor": 2.3,
-      "attack_speed": 120,
+      "attack_speed": 20,
       "damage_min": 49,
       "damage_max": 57
     },
@@ -4081,7 +4081,7 @@
       "mana": 363,
       "mana_regen": 1.2,
       "armor": 2.5,
-      "attack_speed": 121,
+      "attack_speed": 21,
       "damage_min": 44,
       "damage_max": 48
     },
@@ -4118,7 +4118,7 @@
       "mana": 327,
       "mana_regen": 1.1,
       "armor": 3.7,
-      "attack_speed": 116,
+      "attack_speed": 16,
       "damage_min": 46,
       "damage_max": 52
     },
@@ -4156,7 +4156,7 @@
       "mana": 327,
       "mana_regen": 1.1,
       "armor": 4.2,
-      "attack_speed": 225,
+      "attack_speed": 125,
       "damage_min": 39,
       "damage_max": 46
     },
@@ -4192,7 +4192,7 @@
       "mana": 315,
       "mana_regen": 1,
       "armor": 4.3,
-      "attack_speed": 114,
+      "attack_speed": 14,
       "damage_min": 49,
       "damage_max": 53
     },
@@ -4229,7 +4229,7 @@
       "mana": 303,
       "mana_regen": 1,
       "armor": 3.3,
-      "attack_speed": 120,
+      "attack_speed": 20,
       "damage_min": 52,
       "damage_max": 56
     },
@@ -4264,7 +4264,7 @@
       "mana": 267,
       "mana_regen": 0.8,
       "armor": 4.5,
-      "attack_speed": 115,
+      "attack_speed": 15,
       "damage_min": 62,
       "damage_max": 64
     },
@@ -4303,7 +4303,7 @@
       "mana": 351,
       "mana_regen": 1.2,
       "armor": 3.5,
-      "attack_speed": 236,
+      "attack_speed": 136,
       "damage_min": 43,
       "damage_max": 51
     },
@@ -4339,7 +4339,7 @@
       "mana": 375,
       "mana_regen": 1.3,
       "armor": 3.2,
-      "attack_speed": 113,
+      "attack_speed": 13,
       "damage_min": 44,
       "damage_max": 54
     },
@@ -4377,7 +4377,7 @@
       "mana": 315,
       "mana_regen": 1,
       "armor": 5.5,
-      "attack_speed": 237,
+      "attack_speed": 137,
       "damage_min": 42,
       "damage_max": 48
     }
