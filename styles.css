@@ -106,6 +106,10 @@ main {
   color: #555;
 }
 
+.hero-stat-value {
+  font-weight: bold;
+}
+
 @media (min-width: 768px) {
   #controls {
     gap: 1rem;

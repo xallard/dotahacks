@@ -4,17 +4,44 @@ document.addEventListener("DOMContentLoaded", async () => {
     const data = await response.json();
     const heroesObj = data.DOTAHeroes;
 
-    // Convert into array for sorting
-    let heroes = Object.entries(heroesObj).map(([name, stats]) => ({
-      name,
-      ...stats
-    }));
+    // ✅ Properties to display (use final names after renaming)
+    const propertiesToDisplay = [
+      "health",
+      "health_regen",
+      "mana",
+      "mana_regen",
+      "armor",
+      "attack_speed",
+      "damage_min",
+      "damage_max",
+      "movement_speed" // renamed version
+    ];
 
-    // Create controls dynamically
+    // ✅ Rename map
+    const toRename = {
+      "MovementSpeed": "movement_speed",
+    };
+
+    // Convert into array for sorting, renaming + filtering
+    let heroes = Object.entries(heroesObj).map(([name, stats]) => {
+      let filteredStats = {};
+      Object.entries(stats).forEach(([key, value]) => {
+        // If property should be renamed
+        if (toRename[key]) {
+          filteredStats[toRename[key]] = value;
+        }
+        // If property is kept without renaming
+        else if (propertiesToDisplay.includes(key)) {
+          filteredStats[key] = value;
+        }
+      });
+      return { name, ...filteredStats };
+    });
+
+    // Create controls dynamically only for chosen properties
     const controlsContainer = document.getElementById("controls");
-    const statKeys = Object.keys(heroes[0]).filter(k => k !== "name");
 
-    statKeys.forEach(stat => {
+    propertiesToDisplay.forEach(stat => {
       const control = document.createElement("div");
       control.className = "sort-control";
 
@@ -60,9 +87,9 @@ document.addEventListener("DOMContentLoaded", async () => {
         const statsDiv = document.createElement("div");
         statsDiv.className = "hero-stats";
 
-        statKeys.forEach(k => {
+        propertiesToDisplay.forEach(k => {
           const statLine = document.createElement("div");
-          statLine.textContent = `${k}: ${hero[k]}`;
+          statLine.innerHTML = `${k}: <span class="hero-stat-value">${hero[k]}</span>`;
           statsDiv.appendChild(statLine);
         });
 
